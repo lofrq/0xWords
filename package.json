@@ -1,0 +1,22 @@
+{
+  "name": "0xWords",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "4.x",
+    "colors": "^1.0.3"
+  },
+  "devDependencies": {
+    "jscs": "1.0.0"
+  },
+  "engines": {
+    "node": ">= 0.10.21"
+  },
+  "author": "Aleksandr Zaytsev",
+  "license": "ISC"
+}
